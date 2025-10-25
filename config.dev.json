@@ -24,8 +24,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "➤『 𝙷𝙴𝙳𝙶𝙴𝙷𝙾𝙶𝄞 Muzan Kibutsuji 』☜ヅ",
-  "prefix": "~",
+  "nickNameBot": "➤『 ᎴᏋᏉil 🍀🌹𝕾𝖍𝖆𝖉𝖔𝖜✨ ⚜️ ᏰᏫᎩ  』☜ヅ",
+  "prefix": "£",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
